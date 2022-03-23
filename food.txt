@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<title>Live To Eat</title>
+<style>
+		h1{
+			background-color:orange;
+	                    }
+                              body{
+                                               background-color:lightblue;
+                                  }
+</style>
+<body>
+<center>
+<h1 style="font-size:200%;color:black">Welcome Live To Eat</h1>
+</center>
+<center>
+<p style="font-size:200%;">“Remember that happiness is always eating food.”</p>
+<img src="home.jpg" width="45%" height="200">
+<marquee behavior="alternate" style="margin-bottom:30px;font-size:300%;color:red;"><i>For fast delivery Contact Us</i></marquee>
+
+<div class="w3-container ">
+“LIFE IS BEAUTIFUL-WITH COLOURFUL FOOD” </p>
+</div>
+<a href="new.html"> www.Live To Eat.com </a>
+<br/>
+
+<br />
+</body>
+</html>
